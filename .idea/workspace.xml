@@ -4,22 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9b7094d8-51a0-4079-9366-331c9c395ab4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Chess.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Bishop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/King.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Knight.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Pawn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Piece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Queen.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rook.java" afterDir="false" />
+    <list default="true" id="9b7094d8-51a0-4079-9366-331c9c395ab4" name="Changes" comment="Changes:&#10;- Prints board&#10;- Parses user input&#10;- Can move pieces (not correctly)">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Bishop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Bishop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Board.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Board.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/King.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/King.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Knight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Knight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Pawn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Pawn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Piece.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Piece.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Queen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Queen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Rook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rook.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +75,20 @@
       <workItem from="1666135968493" duration="7333000" />
       <workItem from="1666201613828" duration="13000" />
       <workItem from="1666201701442" duration="656000" />
-      <workItem from="1666225742974" duration="4614000" />
+      <workItem from="1666225742974" duration="5095000" />
+      <workItem from="1666231012907" duration="205000" />
+      <workItem from="1666240113314" duration="9000" />
+      <workItem from="1666320173632" duration="3000" />
+      <workItem from="1667070791563" duration="1900000" />
     </task>
+    <task id="LOCAL-00001" summary="Changes:&#10;- Prints board&#10;- Parses user input&#10;- Can move pieces (not correctly)">
+      <created>1666230916636</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1666230916636</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,5 +104,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Changes:&#10;- Prints board&#10;- Parses user input&#10;- Can move pieces (not correctly)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes:&#10;- Prints board&#10;- Parses user input&#10;- Can move pieces (not correctly)" />
   </component>
 </project>

@@ -1,6 +1,6 @@
 public class Pawn extends Piece {
-	public Pawn(boolean isWhite) {
-		this.isWhite = isWhite;
+	public Pawn(boolean isWhite, int[] currentPos) {
+		super(isWhite, currentPos);
 	}
 
 	public String toString() {
